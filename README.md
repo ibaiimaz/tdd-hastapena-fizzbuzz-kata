@@ -1,9 +1,14 @@
 # Eskakizunak
 
-Idatzi programa bat 1 eta 100 arteko zenbakia itzuliko dituena baina ondorengo baldintzeko:
+Idatzi programa bat 1 eta 100 arteko zenbakiak itzuliko dituena baina ondorengo baldintzak betez:
 - 3ren multiploen kasuan, zenbakiaren ordez Fizz itzuliko du
 - 5en multiploen kasuan, zenbakiaren ordez Buzz itzuliko du
 - 3 eta 5en multiploen kasuan, zenbakiaren ordez FizzBuzz itzuliko du
+
+<br>
+
+### Emaitza adibidea
+[ "1", "2", "Fizz", "4", "Buzz", "6", ... , "14", "FizzBuzz", "16" ... , 100 ]
 
 <br>
 <br>
